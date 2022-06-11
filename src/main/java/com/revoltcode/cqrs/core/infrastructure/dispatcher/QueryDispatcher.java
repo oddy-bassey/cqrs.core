@@ -1,5 +1,5 @@
 package com.revoltcode.cqrs.core.infrastructure.dispatcher;
-import com.revoltcode.cqrs.core.domain.BaseEntity;
+import com.revoltcode.cqrs.core.domain.model.BaseEntity;
 import com.revoltcode.cqrs.core.query.BaseQuery;
 import com.revoltcode.cqrs.core.query.QueryHandlerMethod;
 

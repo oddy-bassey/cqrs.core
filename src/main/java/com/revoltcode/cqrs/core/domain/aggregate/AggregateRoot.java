@@ -1,4 +1,4 @@
-package com.revoltcode.cqrs.core.domain;
+package com.revoltcode.cqrs.core.domain.aggregate;
 
 import com.revoltcode.cqrs.core.event.BaseEvent;
 

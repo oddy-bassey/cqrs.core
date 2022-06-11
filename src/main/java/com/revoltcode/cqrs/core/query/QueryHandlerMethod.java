@@ -1,6 +1,6 @@
 package com.revoltcode.cqrs.core.query;
 
-import com.revoltcode.cqrs.core.domain.BaseEntity;
+import com.revoltcode.cqrs.core.domain.model.BaseEntity;
 
 import java.util.List;
 
